@@ -1,2 +1,3 @@
-# gehirn-wissen-videos
-Fertige Gehirn-Wissen TikTok-Videos (Upload-Quelle für Metricool)
+# Gehirn-Wissen – fertige Videos
+
+Upload-Quelle für Metricool (TikTok @piegeutde). Quelle & Skripte: privater Vault.
